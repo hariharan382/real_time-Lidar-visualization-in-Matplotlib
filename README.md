@@ -1,2 +1,3 @@
 # real_time-Lidar-visualization-in-Matplotlib
-This script visualizes the real time data of lidar from the "/scan topic 
+This script visualizes the real time data of lidar from the "/scan" topic using matplotlib animation function , you can change the update rate ....
+
